@@ -10,6 +10,7 @@ from django.core.exceptions import AppRegistryNotReady, ImproperlyConfigured
 from .config import AppConfig
 
 
+
 class Apps:
     """
     A registry that stores the configuration of installed applications.
