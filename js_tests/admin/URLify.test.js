@@ -2,6 +2,7 @@
 /* eslint global-strict: 0, strict: 0 */
 'use strict';
 
+
 QUnit.module('admin.URLify');
 
 QUnit.test('empty string', function(assert) {
