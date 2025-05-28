@@ -5,6 +5,7 @@
 QUnit.module('admin.timeparse');
 
 QUnit.test('parseTimeString', function(assert) {
+
     function time(then, expected) {
         assert.equal(parseTimeString(then), expected);
     }
