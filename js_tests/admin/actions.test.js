@@ -2,7 +2,6 @@
 /* eslint global-strict: 0, strict: 0 */
 'use strict';
 
-
 QUnit.module('admin.actions', {
     beforeEach: function() {
         // Number of results shown on page
